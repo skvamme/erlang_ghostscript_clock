@@ -7,13 +7,13 @@ Install Erlang from https://www.erlang.org
 
 Compile gs_clock.erl
 
-erlc gs_clock.erl
+´erlc gs_clock.erl´
 
 Run the erlang console
 
-erl
+´erl´
 
 Start the clock, don't forget the ending dot.
 
-gs_clock:start(self()).
+´gs_clock:start(self()).´
 
